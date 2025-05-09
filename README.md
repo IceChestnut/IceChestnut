@@ -23,7 +23,6 @@ Here are some ideas to get you started:
           <source
             srcset="https://github-readme-stats.vercel.app/api?username=IceChestnut&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <!-- img src="https://github-readme-stats.vercel.app/api?username=IceChestnut&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&number_format=long" height="100%" / -->
           <img src="https://github-readme-stats.vercel.app/api?username=IceChestnut&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
         </picture>
       </a>
