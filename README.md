@@ -42,4 +42,17 @@ Here are some ideas to get you started:
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="6" align="center">
+      <picture>
+        <source
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceChestnut&theme=github_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceChestnut&theme=github"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IceChestnut&theme=github_dark" />
+      </picture>
+    </td>
+  </tr>
 </table>
