@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**li494391537/li494391537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![IceChestnut's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceChestnut&rank_icon=github&layout=compact)](https://github.com/IceChestnut)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceChestnut&layout=compact)](https://github.com/IceChestnut/convoychat)
