@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 Fingerprint = A1DA 6450 90A7 DC6B 3691  0477 E586 2FBC 3D2C CF8F
 ```
 
-### PGP Public Key (RSA 4096)
+### PGP Public Key
 
 [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/A1DA645090A7DC6B36910477E5862FBC3D2CCF8F)
 
